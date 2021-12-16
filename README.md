@@ -1,6 +1,9 @@
 # git-group-practice
 
 
+Welcome to this project!
+
+
 ### Hello! This is from Hayden :D
 
 ## this is a group project
